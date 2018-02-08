@@ -1,5 +1,5 @@
 def display_board(board)
-  puts " X |   |   "
+  puts "   | X |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
